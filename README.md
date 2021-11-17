@@ -7,4 +7,4 @@ Hi!, I am Felipe Peres.
 I am a Fullstack developer 💻.
 
 - 🚀 I’m currently working at **[Esquadros](https://www.esquadros.com.br/)**.
-- 👨🏻‍💻 ReactJS, React Native and Node.js
+- 👨🏻‍💻 Java, Node.js, ReactJS and React Native.

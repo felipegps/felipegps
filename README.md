@@ -3,8 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePeres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-peres-609302218/)](https://www.linkedin.com/in/felipe-peres-609302218/) 
 
 ## What's up 👋
-Hi!, I am Felipe Peres.
-I am a Fullstack developer 💻.
 
-- 🚀 I’m currently working at **[Esquadros](https://www.esquadros.com.br/)**.
-- 👨🏻‍💻 Java, Node.js, ReactJS and React Native.
+I am a seasoned Full-Stack Developer with a passion for creating robust and user-friendly software solutions. My expertise lies in seamlessly integrating applications and systems, optimizing data manipulation. Proficient in Node.js, Java, and SQL Server, I excel in developing scalable applications and streamlining processes. Additionally, I have a keen interest in HR application development, empowering businesses to efficiently manage human resources. With a focus on infrastructure enhancement, I deliver innovative solutions to drive efficiency and productivity.
+
+Key Expertise:
+Full-Stack Software Development
+Application & System Integration
+User-Friendly Interface Design
+Streamlining Data Manipulation
+HR Application Development
+Technology & Infrastructure Optimization
